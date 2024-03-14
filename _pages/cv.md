@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Public Administration and Government, Fundação Getulio Vargas’s Sao Paulo School of Business Administration (FGV-EAESP), 2026 (expected)
+* M.S. in Public Management and International Cooperation, Federal University of Paraiba, 2020
+* B.S. in Public Policy, Federal University of Rio Grande do Norte, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* 2023 - 2024: Researcher
+  * Tide Setubal Foundation (Brazil)
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Gabriela Lotta
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2020: Research Assistant
+  * Vanderbilt University (USA)
+  * Duties included: Dataset construction and preliminary data analysis.
+  * Supervisor: [Guillermo Toral](https://www.guillermotoral.com/).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019: Field Research Assistant
+  * Massachussets Institute of Tecnology (USA)
+  * Duties included: Data collection and survey application.
+  * Supervisor: Guillermo Toral
+
+* 2014-2016: Internship
+  * Court of Auditors of Rio Grande do Norte (Brazil)
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Softwares and quantitative/qualitative data management
+  * R
+  * LateX
+  * SPSS
+  * Iramuteq
+    
 
 Publications
 ======
@@ -59,6 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
