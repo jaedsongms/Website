@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+======
+======
+
 Education
 ======
 * Ph.D in Public Administration and Government, Fundação Getulio Vargas’s Sao Paulo School of Business Administration (FGV-EAESP) (Brazil), 2026 (expected).
