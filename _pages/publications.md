@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com.br/citations?user=FyoFxpoAAAAJ&hl=pt-BR&oi=ao}}">my Google Scholar profile</a>.</div>
 
-  ### Published
+  **Published**
 
   * [Santos JG, Silva ALN, Melo CMO, Melo YM (2022). Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
     
@@ -17,12 +18,12 @@ author_profile: true
   * [Santos JG, Mota FPB (2021). A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
 
 
-  ### Pre-print
+  **Pre-print**
 
   *[Santos JG, Grin EJ (2023). Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
 
 
-  ### Work in progress
+  **Work in progress**
 
   * PHD Thesis: Santos JG. Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019).
     
@@ -37,7 +38,7 @@ author_profile: true
   * Paper: Santos JG. Ideal N, observations, and inference approaches: reflections on case study-based research.
 
 
-  ### Book chapters
+  **Book chapters**
 
 
     
