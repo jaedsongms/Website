@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PHD candidate in Public Administration and Government"
   location         : "São Paulo, Brazil"
-  employer         : "Fundação Getulio Vargas, School of Business Administration"
+  employer         : "Fundação Getulio Vargas"
   uri              : # URL
   email            : "gms.jaedson@gmail.com" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2128-0932"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Jaedson-Santos"
+  researchgate     : #"https://www.researchgate.net/profile/Jaedson-Santos"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
