@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://jaedsongms.github.io/Website/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://jaedsongms.github.io/Website/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://jaedsongms.github.io/Website/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://jaedsongms.github.io/Website/portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://jaedsongms.github.io/Website/cv/
     
   - title: "Guide"
     url: /markdown/
