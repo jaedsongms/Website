@@ -18,7 +18,9 @@ Research topics:
 * Subnational diffusion of public policies;
 * Local state capacities;
 * Institutional and social dimensions associated with the digital transformation of the state;
-* Causal inference (Especially event study models).  
+* Causal inference (Especially event study models).
+
+    
 
 
 
