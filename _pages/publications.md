@@ -12,7 +12,7 @@ author_profile: true
 
 
   **Published**
-======
+
 
   * [Santos JG, Silva ALN, Melo CMO, Melo YM (2022). Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
     
@@ -23,13 +23,13 @@ author_profile: true
 
 
   **Pre-print**
-  ======
+
 
   * [Santos JG, Grin EJ (2023). Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
 
 
   **Work in progress**
-  ======
+
 
   * PHD Thesis: Santos JG. Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019).
     
@@ -46,7 +46,7 @@ author_profile: true
 
 
   **Book chapters**
-  ======
+  
 
 
     
