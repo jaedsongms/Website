@@ -13,11 +13,12 @@ My research focuses on the dynamics of federalism and the relationship between l
 
 Research topics: 
 ======
-* Intergovernmental cooperation;
+* Inter-municipal cooperation;
 * Political economy of local governments collective action;
 * Diffusion of public policies at the subnational level;
 * Local state capacities;
-* Causal inference.
+* Institutional and social dimensions associated with the digital transformation of the state;
+* Causal inference (Especially event study methods).
 
 
 
