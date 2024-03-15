@@ -7,7 +7,7 @@ author_profile: true
 
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com.br/citations?user=FyoFxpoAAAAJ&hl=pt-BR&oi=ao}}">my Google Scholar profile</a>.</div>
+ You can also find my articles on [my Google Scholar](https://scholar.google.com.br/citations?user=FyoFxpoAAAAJ&hl=pt-BR&oi=ao) profile.
 
 
 
