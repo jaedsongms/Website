@@ -20,8 +20,5 @@ Research topics:
 * Institutional and social dimensions associated with the digital transformation of the state;
 * Causal inference (Especially event study models).
 
-    
-
-
 
 Thanks for visiting!
