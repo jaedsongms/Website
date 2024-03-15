@@ -14,18 +14,18 @@ author_profile: true
   **Published**
 
 
-  * [Santos JG, Silva ALN, Melo CMO, Melo YM (2022). Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
+  * Santos JG, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
     
-  * [Santos JG, Mota FPB (2022). Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis](https://e-legis.camara.leg.br/cefor/index.php/e-legis/article/view/752/1139). E-Legis, 15(38).
+  * Santos JG, Mota FPB (2022). [Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis](https://e-legis.camara.leg.br/cefor/index.php/e-legis/article/view/752/1139). E-Legis, 15(38).
     
-  * [Santos JG, Mota FPB (2021). A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
+  * Santos JG, Mota FPB (2021). [A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
 
 
 
   **Pre-print**
 
 
-  * [Santos JG, Grin EJ (2023). Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
+  * Santos JG, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
 
 
   **Work in progress**
