@@ -19,6 +19,10 @@ author_profile: true
   * Santos JG, Mota FPB (2022). [Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis](https://e-legis.camara.leg.br/cefor/index.php/e-legis/article/view/752/1139). E-Legis, 15(38).
     
   * Santos JG, Mota FPB (2021). [A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
+    
+  * Barbosa JDS, Mota FPB, Santos JG (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](LINK). Interface ().
+    
+  * 
 
 
 
@@ -31,7 +35,7 @@ author_profile: true
   **Work in progress**
 
 
-  * PHD Thesis: Santos JG. Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019).
+  * PHD Thesis: Santos JG. Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019). Under supervision of professor [Eduardo José Grin](Link).
     
   * Paper: Santos JG, Mota FPB. Digital Government for whom? Profile and challenges for non-users in the Brazilian context.
 
