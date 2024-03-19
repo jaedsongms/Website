@@ -35,15 +35,15 @@ author_profile: true
 
   * PHD Thesis: Santos JG. Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019). Under supervision of professor [Eduardo José Grin](https://eppg.fgv.br/en/corpo_docente/eduardo-jose-grin).
     
-  * Paper: Santos JG, Mota FPB. Digital Government for whom? Profile and challenges for non-users in the Brazilian context.
+  * Paper: Digital Government for whom? Profile and challenges for non-users in the Brazilian context. With Mota FPB.
 
-  * Paper: Santos JG, Mota FPB. The expansion of municipal e-services in the context of the COVID-19 pandemic: an exploratory analysis.
+  * Paper: The expansion of municipal e-services in the context of the COVID-19 pandemic: an exploratory analysis. With Mota FPB
     
-  * Paper: Santos JG. Bureaucracy, Political Appointments and Patronage: an brief overview.
+  * Paper: Bureaucracy, Political Appointments and Patronage: an brief overview.
 
-  * Paper: Santos JG, Barreto RTS. Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism.
+  * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS
 
-  * Paper: Santos JG. Small-n research, observations, and inference approaches: reflections on case study-based research.
+  * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
 
 
 
