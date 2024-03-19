@@ -43,7 +43,7 @@ author_profile: true
 
   * Paper: Santos JG, Barreto RTS. Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism.
 
-  * Paper: Santos JG. small-n research, observations, and inference approaches: reflections on case study-based research.
+  * Paper: Santos JG. Small-n research, observations, and inference approaches: reflections on case study-based research.
 
 
 
