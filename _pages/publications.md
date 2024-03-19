@@ -20,7 +20,7 @@ author_profile: true
     
   * Santos JG, Mota FPB (2021). [A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
     
-  * Barbosa JDS, Mota FPB, Santos JG (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). Interface (1).
+  * Barbosa JDS, Mota FPB, Santos JG, Menezes HBS, Silva MA (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). Interface 19(1).
     
     
 
@@ -41,9 +41,9 @@ author_profile: true
     
   * Paper: Santos JG. Bureaucracy, Political Appointments and Patronage: an brief overview.
 
-  * Paper: Santos JG, Barreto RTS. Transparency at local Level: Vertical Diffusion and Institutionalization of  Freedom of Informations Laws in Brazilian Federalism.
+  * Paper: Santos JG, Barreto RTS. Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism.
 
-  * Paper: Santos JG. Ideal N, observations, and inference approaches: reflections on case study-based research.
+  * Paper: Santos JG. small-n research, observations, and inference approaches: reflections on case study-based research.
 
 
 
