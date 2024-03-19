@@ -37,11 +37,11 @@ author_profile: true
     
   * Paper: Digital Government for whom? Profile and challenges for non-users in the Brazilian context. With Mota FPB.
 
-  * Paper: The expansion of municipal e-services in the context of the COVID-19 pandemic: an exploratory analysis. With Mota FPB
+  * Paper: The expansion of municipal e-services in the context of the COVID-19 pandemic: an exploratory analysis. With Mota FPB.
     
   * Paper: Bureaucracy, Political Appointments and Patronage: an brief overview.
 
-  * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS
+  * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
 
   * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
 
