@@ -35,9 +35,6 @@ Work experience
   * Duties included: Primary data gathering and survey application.
   * Supervisor: [Guillermo Toral](https://www.guillermotoral.com/).
 
-* 2014-2016: Internship
-  * Court of Auditors of Rio Grande do Norte (Brazil)
- 
   
 Skills
 ======
