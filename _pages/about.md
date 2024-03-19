@@ -13,7 +13,7 @@ I have a background in quantitative methods, but i'm also have experience with q
 
 My research focuses on the dynamics of federalism and the relationship between local governments, political institutions and public policies. In my doctoral thesis, I seek to analyze the influence of the dynamics of local political institutions on the diffusion of intermunicipal cooperation in Brazilian federalism.
 
-Research topics: 
+Research interests: 
 ======
 * Inter-municipal cooperation;
 * Political economy of local governments collective action;
