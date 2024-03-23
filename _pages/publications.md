@@ -14,26 +14,26 @@ author_profile: true
   **Published**
 
 
-  * Santos JG, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
+  * _Santos JG_, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
     
-  * Santos JG, Mota FPB (2022). [Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis](https://e-legis.camara.leg.br/cefor/index.php/e-legis/article/view/752/1139). E-Legis, 15(38).
+  * _Santos JG_, Mota FPB (2022). [Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis](https://e-legis.camara.leg.br/cefor/index.php/e-legis/article/view/752/1139). E-Legis, 15(38).
     
-  * Santos JG, Mota FPB (2021). [A transparência governamental em tempos de Covid-19: reflexões do quadro brasileiro](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
+  * _Santos JG_, Mota FPB (2021). [Government transparency in times of Covid-19: reflections from the Brazilian context.](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
     
-  * Barbosa JDS, Mota FPB, Santos JG, Menezes HBS, Silva MA (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). Interface 19(1).
+  * Barbosa JDS, Mota FPB, _Santos JG_, Menezes HBS, Silva MA (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). Interface 19(1).
     
     
 
   **Pre-print**
 
 
-  * Santos JG, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
+  * _Santos JG_, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
 
 
   **Work in progress**
 
 
-  * PHD Thesis: Santos JG. Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019). Under supervision of professor [Eduardo José Grin](https://eppg.fgv.br/en/corpo_docente/eduardo-jose-grin).
+  * PHD Thesis: Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019). Under supervision of professor [Eduardo José Grin](https://eppg.fgv.br/en/corpo_docente/eduardo-jose-grin).
     
   * Paper: Digital Government for whom? Profile and challenges for non-users in the Brazilian context. With Mota FPB.
 
