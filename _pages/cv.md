@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+{CV}(LINK)
 
+{Lattes CV}(http://lattes.cnpq.br/9288632163458429)
 
 Education
 ======
