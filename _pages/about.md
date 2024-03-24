@@ -15,6 +15,7 @@ My research focuses on the dynamics of federalism and the relationship between l
 
 Research interests: 
 ======
+* Federalism dynamics
 * Inter-municipal cooperation;
 * Political economy of local governments collective action;
 * Subnational diffusion of public policies;
