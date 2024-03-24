@@ -35,11 +35,11 @@ author_profile: true
 
   * PhD Thesis: Yesterday Competitors, Today Partners: Political Determinantes of the Diffusion of Inter-municipal Cooperation in Brazilian Federalism (2005-2019). Under supervision of professor [Eduardo José Grin](https://eppg.fgv.br/en/corpo_docente/eduardo-jose-grin).
     
-  * Paper: Digital Government for whom? Profile and challenges for non-users in the Brazilian context. With Mota FPB.
+  * Paper: Digital Government for Whom? Profile and Challenges for Non-users in Brazilian context. With Mota FPB.
 
   * Paper: The expansion of municipal e-services in COVID-19 pandemic: an exploratory analysis. With Mota FPB.
     
-  * Paper: Bureaucracy, Political Appointments and Patronage: an brief overview.
+  * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
 
   * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
 
