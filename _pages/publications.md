@@ -18,7 +18,7 @@ author_profile: true
     
   * **Santos JG**, Mota FPB (2022). [Institutional Dimensions Associated With Government Data Openness: A Transnational Analysis](https://e-legis.camara.leg.br/cefor/index.php/e-legis/article/view/752/1139). E-Legis, 15(38).
     
-  * **Santos JG**, Mota FPB (2021). [Government transparency in times of Covid-19: reflections from the Brazilian context.](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
+  * **Santos JG**, Mota FPB (2021). [Government transparency in times of Covid-19: reflections from the Brazilian context](https://scholar.archive.org/work/uljq7p3tkrbd7mjakpqqxfp6wa/access/wayback/https://ges.emnuvens.com.br/gestaoesociedade/article/download/3288/1473). Revista Eletrônica Gestão e Sociedade, 14(39).
     
   * Barbosa JDS, Mota FPB, **Santos JG**, Menezes HBS, Silva MA (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). Interface 19(1).
     
@@ -42,6 +42,8 @@ author_profile: true
   * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
 
   * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
+    
+  * Time Goes On: Event Study Models as Tools for Analyzing Public Policies and Institutional Changes in Local Public Administration
 
   * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
 
