@@ -11,7 +11,7 @@ I'm a Ph.D. candidate in Public Administration and Government at Fundação Getu
 
 I have a background in quantitative methods, but i'm also have experience with qualitative methods in academic and applied research. Between 2021 and 2023, I worked as a research assistant affiliated with the [Department of Political Science at Vanderbilt University](https://as.vanderbilt.edu/political-science/), under supervision of professor [Guillermo Toral](https://www.guillermotoral.com/).
 
-My research focuses on the dynamics of federalism and the interaction between local political institutions and public policies. In my doctoral dissertation, I seek to analyze the influence of the dynamics of local political institutions on the diffusion of intermunicipal cooperation arrengements in Brazilian federalism.
+My research focuses on the dynamics of federalism and the interaction between local political institutions and public policies. In my doctoral dissertation, I seek to analyze the influence of local political institutions on the diffusion of intermunicipal cooperation arrengements in Brazilian federalism.
 
 Research interests: 
 ======
