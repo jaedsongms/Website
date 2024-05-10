@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Public Administration and Government, Fundação Getulio Vargas’s Sao Paulo School of Business Administration (FGV-EAESP) (Brazil), 2026 (expected).
+* Ph.D in Public Administration and Government, Fundação Getulio Vargas’s Sao Paulo School of Business Administration (FGV-EAESP) (Brazil), 2027 (expected).
 * M.S. in Public Management and International Cooperation, Federal University of Paraiba (Brazil), 2020.
 * B.S. in Public Policy, Federal University of Rio Grande do Norte (Brazil), 2018.
 
