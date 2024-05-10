@@ -43,7 +43,7 @@ author_profile: true
 
   * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
     
-  * Time Goes On: Event Study Models as Tools for Analyzing Public Policies and Institutional Changes in Local Public Administration
+  * Paper: Time Goes On: Event Study Models as Tools for Analyzing Public Policies and Institutional Changes in Local Public Administration
 
   * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
 
