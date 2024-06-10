@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](LINK)
+[CV](https://drive.google.com/file/d/1ZJS_KPEO0IAxQKTd6NzaF6_rSCTYJjXf/view?usp=sharing)
 
 [Lattes CV](http://lattes.cnpq.br/9288632163458429)
 
