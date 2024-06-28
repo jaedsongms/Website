@@ -29,7 +29,7 @@ author_profile: true
 
   * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
 
-* Santos JG. The Diffusion of Intermunicipal Cooperation in Brazilian Federalism (2005-2019): Exploring Variations Across Different Public Policies. To be presented at Euroloc Summer School on Local Government & Politics (2024).
+* Santos JG (2024). The Diffusion of Intermunicipal Cooperation in Brazilian Federalism (2005-2019): Exploring Variations Across Different Public Policies. To be presented at Euroloc Summer School on Local Government & Politics (2024).
 
 
   **Work in progress**
