@@ -22,6 +22,11 @@ Education
 
 Work experience
 ======
+* 2024: Researcher
+  * Center for Studies in Public Administration and Government (FGV-CEAPG)
+  * Duties includes: Gathering and analyzing qualitative and quantitative data and producing policy briefs.
+  * Supervisor: [Eduardo Grin]([https://pesquisa-eaesp.fgv.br/en/professor/gabriela-spanghero-lotta](https://eppg.fgv.br/en/corpo_docente/eduardo-jose-grin)).
+
 * 2023 - 2024: Researcher
   * Tide Setubal Foundation (Brazil)
   * Duties includes: Qualitative data gathering (interviews) and qualitative analysis.
