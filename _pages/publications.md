@@ -24,7 +24,7 @@ author_profile: true
 
   **Working Paper**
 
-* Mota FP, Silva AS, **Santos JG**(2023)E-gov for whom? Profile and challenges for non-users in the Brazilian context (Under Review).
+* Mota FP, Silva AS, **Santos JG** (2023)E-gov for whom? Profile and challenges for non-users in the Brazilian context (Under Review).
   
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
 
