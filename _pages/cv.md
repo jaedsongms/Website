@@ -32,7 +32,7 @@ Work experience
   * Duties includes: Qualitative data gathering (interviews) and qualitative analysis.
   * Supervisor: [Gabriela Lotta](https://pesquisa-eaesp.fgv.br/en/professor/gabriela-spanghero-lotta).
 
-* 2019 - 2020: Research Assistant
+* 2021 - 2023: Research Assistant
   * Vanderbilt University (USA)
   * Duties included: Dataset construction/management and preliminary data analysis.
   * Supervisor: [Guillermo Toral](https://www.guillermotoral.com/).
