@@ -18,6 +18,7 @@ Research interests:
 * Political economy of federalism;
 * Local governments;
 * Inter-municipal cooperation;
+* Multilevel politics;
 * Subnational diffusion of public policies;
 * Local state capacities;
 * Causal inference (Especially event study models).
