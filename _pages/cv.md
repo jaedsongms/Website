@@ -48,7 +48,7 @@ Skills
 * Softwares and quantitative/qualitative data management
   * R
   * LateX
-  * SPSS
+  * Qualtrics
   * Iramuteq
     
 
