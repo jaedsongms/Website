@@ -43,7 +43,7 @@ Work experience
   * Supervisor: [Guillermo Toral](https://www.guillermotoral.com/).
 
   
-Skills
+Computational Skills
 ======
 * Softwares and quantitative/qualitative data management
   * R
