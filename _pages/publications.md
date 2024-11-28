@@ -24,9 +24,9 @@ author_profile: true
 
   **Working Paper**
 
-* Mota FP, Silva MA, **Santos JG** (2023) E-gov for whom? Profile and challenges for non-users in the Brazilian context (Under Review).
+* Mota FP, **Santos JG**, Silva MA (2023) E-gov for whom? Profile and challenges for non-users in the Brazilian context (Under Review).
   
-* **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presenting at the ANPOCS annual meeting (2023).
+* **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023).
 
 * Santos JG (2024). The Diffusion of Intermunicipal Cooperation in Brazilian Federalism (2005-2019): Exploring Variations Across Different Public Policies. Presented at Euroloc Summer School on Local Government & Politics (2024).
 
@@ -35,9 +35,12 @@ author_profile: true
 
   * PhD Dissertation: Yesterday Contenders, Today Partners: Political Determinants of Inter-Municipal Cooperation Diffusion in Brazilian Federalism (2005-2019).
     
+    
   * Paper: The expansion of municipal e-services in COVID-19 pandemic: an exploratory analysis. With Mota FPB.
     
   * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
+    
+  * Paper: Does the Policy-Seeking Orientation of Parties Influence Cabinet Ministers’ Duration at the Sub-national Level? 
 
   * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
     
