@@ -35,7 +35,7 @@ author_profile: true
 
   * PhD Dissertation paper: Yesterday Contenders, Today Partners: Political Determinants of Inter-Municipal Cooperation Diffusion in Brazilian Federalism (2005-2019).
     
-  * PhD Dissertation paper:How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction.
+  * PhD Dissertation paper: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction.
     
   * Paper: The expansion of municipal e-services in COVID-19 pandemic: an exploratory analysis. With Mota FPB.
     
