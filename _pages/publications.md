@@ -24,9 +24,9 @@ author_profile: true
 
   **Working Paper**
 
-* Mota FP, **Santos JG**, Silva MA (2023) E-gov for whom? Profile and challenges for non-users in the Brazilian context (Under Review).
+* Mota FP, **Santos JG**, Silva MA (2023) E-gov for whom? Profile and challenges for non-users in the Brazilian context (Major Revision).
   
-* **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023).
+* **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
 
 * Santos JG (2024). The Diffusion of Intermunicipal Cooperation in Brazilian Federalism (2005-2019): Exploring Variations Across Different Public Policies. Presented at ECPR Euroloc Summer School on Local Government & Politics (2024).
 
