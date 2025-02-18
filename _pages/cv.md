@@ -47,7 +47,7 @@ Computational Skills
 ======
 * Softwares and quantitative/qualitative data management
   * R
-  * LateX
+  * LaTeX
   * Qualtrics
   * Iramuteq
     
