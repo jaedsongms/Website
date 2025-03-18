@@ -13,6 +13,7 @@ author_profile: true
 
   **Published**
 
+* Mota FP, **Santos JG**, Silva MA (2025) [E-gov for whom? Profile and challenges for non-users in the Brazilian context](https://journals.sagepub.com/loi/idva/group/d2020.y2024). Information Development, 41(1).
 
   * **Santos JG**, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
     
@@ -23,20 +24,15 @@ author_profile: true
   * Barbosa JDS, Mota FPB, **Santos JG**, Menezes HBS, Silva MA (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). Interface 19(1).
 
   **Working Paper**
-
-* Mota FP, **Santos JG**, Silva MA (2023) E-gov for whom? Profile and challenges for non-users in the Brazilian context (Upcoming - Information Development).
   
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
 
-* Santos JG (2024). The Diffusion of Intermunicipal Cooperation in Brazilian Federalism (2005-2019): Exploring Variations Across Different Public Policies. Presented at ECPR Euroloc Summer School on Local Government & Politics (2024).
+ * **PhD Dissertation paper: Yesterday Contenders, Today Partners: Political Determinants of Inter-municipal Cooperation Decisions in a Federal Context. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
+    
+  * **PhD Dissertation paper: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction. First version presented at [ECPR Euroloc Summer School on Local Government & Politics (2024)](https://sites.google.com/view/euroloc2024/home).
 
   **Work in progress**
 
-
-  * PhD Dissertation paper: Yesterday Contenders, Today Partners: Political Determinants of Inter-Municipal Cooperation Diffusion in Brazilian Federalism (2005-2019).
-    
-  * PhD Dissertation paper: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction.
-    
   * Paper: The expansion of municipal e-services in COVID-19 pandemic: an exploratory analysis. With Mota FPB.
     
   * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
