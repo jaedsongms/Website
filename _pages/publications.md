@@ -13,7 +13,7 @@ author_profile: true
 
   **Published**
 
-* Mota FP, **Santos JG**, Silva MA (2025) [E-gov for whom? Profile and challenges for non-users in the Brazilian context](https://journals.sagepub.com/loi/idva/group/d2020.y2024). Information Development, 41(1).
+  * Mota FP, **Santos JG**, Silva MA (2025) [E-gov for whom? Profile and challenges for non-users in the Brazilian context](https://journals.sagepub.com/loi/idva/group/d2020.y2024). Information Development, 41(1).
 
   * **Santos JG**, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). Brazilian Journal of Public Administration, 56(6).
     
