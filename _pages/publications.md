@@ -27,9 +27,9 @@ author_profile: true
   
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
 
- * **PhD Dissertation paper: Yesterday Contenders, Today Partners: Political Determinants of Inter-municipal Cooperation Decisions in a Federal Context. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
+ * **PhD Dissertation paper**: Yesterday Contenders, Today Partners: Political Determinants of Inter-municipal Cooperation Decisions in a Federal Context. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
     
-  * **PhD Dissertation paper: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction. First version presented at [ECPR Euroloc Summer School on Local Government & Politics (2024)](https://sites.google.com/view/euroloc2024/home).
+  * **PhD Dissertation paper**: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction. First version presented at [ECPR Euroloc Summer School on Local Government & Politics (2024)](https://sites.google.com/view/euroloc2024/home).
 
   **Work in progress**
 
