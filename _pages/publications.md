@@ -25,7 +25,7 @@ author_profile: true
 
   **Working Paper**
   
-* Berman EM, Lotta GS, Grin EJ, Abrucio FL, Gonzalez LE, Souza MG, Melo YM, **Santos JG**. Brazil's Public Administration and the Challenge of New Democracies: Promoting Social Inclusion. Conditionally Accepted in Public Admnistration Review.
+* Berman EM, Lotta GS, Grin EJ, Abrucio FL, Gonzalez LE, Souza MG, Melo YM, **Santos JG**. Brazil's Public Administration and the Challenge of New Democracies: Promoting Social Inclusion. Conditionally Accepted in *Public Admnistration Review*.
 
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
 
