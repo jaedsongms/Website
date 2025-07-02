@@ -51,7 +51,7 @@ author_profile: true
 
   **Book chapters**
   
-
+GRIN EJ, **JG SANTOS**, MELO CMO. Estabilidade e Mudança nas Políticas Públicas: Mecanismos Explicativos a Partir do Institucionalismo. *Forthcoming september 2025*.
 
     
 {% endif %}
