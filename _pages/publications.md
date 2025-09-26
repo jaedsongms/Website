@@ -13,6 +13,8 @@ author_profile: true
 
   **Published**
 
+* Berman EM, Lotta GS, Grin EJ, Abrucio FL, Gonzalez LE, Souza MG, Melo YM, **Santos JG** (2025). [Brazil's Public Administration and the Challenge of New Democracies: Promoting Social Inclusion] (https://onlinelibrary.wiley.com/doi/10.1111/puar.70045). *Public Admnistration Review*, Online First.
+
   * Mota FP, **Santos JG**, Silva MA (2025) [E-gov for whom? Profile and challenges for non-users in the Brazilian context](https://doi.org/10.1177/02666669251327184). *Information Development*, 41(1).
 
   * **Santos JG**, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). *Brazilian Journal of Public Administration*, 56(6).
@@ -25,8 +27,6 @@ author_profile: true
 
   **Working Paper**
   
-* Berman EM, Lotta GS, Grin EJ, Abrucio FL, Gonzalez LE, Souza MG, Melo YM, **Santos JG**. Brazil's Public Administration and the Challenge of New Democracies: Promoting Social Inclusion. Conditionally Accepted in *Public Admnistration Review*.
-
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
 
  * **PhD Dissertation paper**: Yesterday Contenders, Today Partners: Political Determinants of Inter-municipal Cooperation Decisions in a Federal Context. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
