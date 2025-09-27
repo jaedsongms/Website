@@ -14,10 +14,9 @@ author_profile: true
   **Published**
 
 
+  * Berman EM, Lotta GS, Grin EJ, Abrucio FL, Gonzalez LE, Souza MG, Melo YM, **Santos JG** (2025). [Brazil's Public Administration and the Challenge of New Democracies: Promoting Social Inclusion](https://doi.org/10.1177/02666669251327184). *Public Admnistration Review*, Online First.
 
   * Mota FP, **Santos JG**, Silva MA (2025) [E-gov for whom? Profile and challenges for non-users in the Brazilian context](https://doi.org/10.1177/02666669251327184). *Information Development*, 41(1).
-
-  * Berman EM, Lotta GS, Grin EJ, Abrucio FL, Gonzalez LE, Souza MG, Melo YM, **Santos JG** (2025). [Brazil's Public Administration and the Challenge of New Democracies: Promoting Social Inclusion] (https://doi.org/10.1177/02666669251327184). *Public Admnistration Review*, Online First.
 
   * **Santos JG**, Silva ALN, Melo CMO, Melo YM (2022). [Intermunicipal cooperation in the National Environmental Policy: do state capacities matter?](https://periodicos.fgv.br/rap/article/view/88551/83280). *Brazilian Journal of Public Administration*, 56(6).
     
