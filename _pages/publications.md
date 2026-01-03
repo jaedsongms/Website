@@ -45,8 +45,6 @@ author_profile: true
   * Paper: Reelections and the Politics of Patronage at Municipal Level: Evidence from Brazilian Local Governments.
     
   * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
-    
-  * Paper: Does the Policy-Seeking Orientation of Parties Influence Cabinet Ministers’ Duration at the Sub-national Level? 
 
   * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
     
