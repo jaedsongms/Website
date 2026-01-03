@@ -30,13 +30,19 @@ author_profile: true
   
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
 
- * **PhD Dissertation paper**: Yesterday Contenders, Today Partners: Political Determinants of Inter-municipal Cooperation Decisions in a Federal Context. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
+ * **PhD Dissertation paper**: When Politics Hinder Collaboration: Political Competition and the Timing of Inter-Municipal Cooperation Decisions. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
     
   * **PhD Dissertation paper**: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction. First version presented at [ECPR Euroloc Summer School on Local Government & Politics (2024)](https://sites.google.com/view/euroloc2024/home).
 
   **Work in progress**
 
-  * Paper: The expansion of municipal e-services in COVID-19 pandemic: an exploratory analysis. With Mota FPB.
+  * Paper: The Politics of Climate Evidence: Sensemaking and Data Mobilisation in Brazilian Local Governments. With Aquino MA, Soares FJ, Miron G.
+    
+  * Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G.
+
+  * Paper: Fragmented Structures, Fragmented Evidence: Policy Integration and Evidence-Based Climate Governance in Multilevel Settings. With Soares FJ, Aquino MA, Miron G.
+    
+  * Paper: Reelections and the Politics of Patronage at Municipal Level: Evidence from Brazilian Local Governments.
     
   * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
     
@@ -44,7 +50,7 @@ author_profile: true
 
   * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
     
-  * Paper: Time Goes On: Event Study Models as Tools for Analyzing Public Policies and Institutional Changes in Local Public Administration
+  * Paper: Modern Difference-in-Differences and Event-Study Designs for Public Administration Research. With Antunes C.
 
   * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
 
