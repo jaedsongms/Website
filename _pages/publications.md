@@ -36,6 +36,7 @@ author_profile: true
 
   **Work in progress**
 
+
   * Paper: The Politics of Climate Evidence: Sensemaking and Data Mobilisation in Brazilian Local Governments. With Aquino MA, Soares FJ, Miron G.
     
   * Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G.
