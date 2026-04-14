@@ -22,7 +22,11 @@ Education
 
 Work experience
 ======
-* 2024: Researcher
+* 2026 - Ongoing: Visiting Researcher
+  * Institute for Comparative Federalism (Eurac Reserach)
+  * Supervisor: [MKarl Kössler](https://www.eurac.edu/en/people/karl-peter-koessler).
+
+* 2024 - Ongoing: Researcher
   * Center for Studies in Public Administration and Government (FGV CEAPG)
   * Duties includes: Gathering and analyzing qualitative and quantitative data and producing policy briefs.
   * Supervisor: [Mario Aquino Alves](https://eaesp.fgv.br/en/people/mario-aquino-alves).
