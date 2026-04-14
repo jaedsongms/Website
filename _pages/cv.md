@@ -24,7 +24,7 @@ Work experience
 ======
 * 2026 - Ongoing: Visiting Researcher
   * Institute for Comparative Federalism (Eurac Reserach)
-  * Supervisor: [MKarl Kössler](https://www.eurac.edu/en/people/karl-peter-koessler).
+  * Supervisor: [Karl Kössler](https://www.eurac.edu/en/people/karl-peter-koessler).
 
 * 2024 - Ongoing: Researcher
   * Center for Studies in Public Administration and Government (FGV CEAPG)
