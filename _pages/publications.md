@@ -57,7 +57,7 @@ author_profile: true
 
   **Book chapters**
   
-Grin EJ, **JG Santos**, Melo CMO. Much stability, some change, and fewer mechanisms in historical institutionalism *In* Policy Process Frameworks in Practice: Critical Analysis from Brazil and Latin America. Palgrave Macmillan. *Forthcoming June 2026*.
+Grin EJ, **JG Santos**, Melo CMO. Much stability, some change, and fewer mechanisms in historical institutionalism *In* Policy Process Frameworks in Practice: Critical Analysis from Brazil and Latin America. Routledge. *Forthcoming June 2026*.
 
     
 {% endif %}
