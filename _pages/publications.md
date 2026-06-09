@@ -34,7 +34,7 @@ author_profile: true
     
   * **PhD Dissertation paper**: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction. First version presented at [ECPR Euroloc Summer School on Local Government & Politics (2024)](https://sites.google.com/view/euroloc2024/home).
     
-  * * **PhD Dissertation paper**: The Politics of Similarity: How Political Homophily Conditions the Scope of Inter-Municipal Cooperation. (To be presented at 2026 EGPA Conference and 2026 ECPR Euroloc Summer School on Local Government & Politics) 
+  * **PhD Dissertation paper**: The Politics of Similarity: How Political Homophily Conditions the Scope of Inter-Municipal Cooperation. (To be presented at 2026 EGPA Conference and 2026 ECPR Euroloc Summer School on Local Government & Politics) 
 
  * Paper: The Politics of Climate Evidence: Sensemaking and Data Mobilisation in Brazilian Local Governments. With Aquino MA, Soares FJ, Miron G. (To be presented at 2026 EURA Annual Conference).
     
