@@ -26,33 +26,31 @@ author_profile: true
     
   * Barbosa JDS, Mota FPB, **Santos JG**, Menezes HBS, Silva MA (2022). [DIGITAL DIVIDE: an analysis based on the profile of internet users and electronic government in Brazil](https://ojs.ccsa.ufrn.br/index.php/interface/article/view/1243). *Interface*, 19(1).
 
-  **Working Paper**
+ **Work in progress**
   
-* **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under Review).
+* **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under review).
 
- * **PhD Dissertation paper**: When Politics Hinder Collaboration: Political Competition and the Timing of Inter-Municipal Cooperation Decisions. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio).
+ * **PhD Dissertation paper**: When Politics Delay Collaboration: Political Competition, Timing and Inter-Municipal Cooperation Decisions. First version presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio) (Under review).
     
   * **PhD Dissertation paper**: How Inter-municipal Cooperation Spreads: A Comparative Explanation Across Policy Domains under Federal Induction. First version presented at [ECPR Euroloc Summer School on Local Government & Politics (2024)](https://sites.google.com/view/euroloc2024/home).
-
-  **Work in progress**
-
-
-  * Paper: The Politics of Climate Evidence: Sensemaking and Data Mobilisation in Brazilian Local Governments. With Aquino MA, Soares FJ, Miron G.
     
-  * Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G.
+  * * **PhD Dissertation paper**: The Politics of Similarity: How Political Homophily Conditions the Scope of Inter-Municipal Cooperation. (To be presented at 2026 EGPA Conference and 2026 ECPR Euroloc Summer School on Local Government & Politics) 
 
-  * Paper: Fragmented Structures, Fragmented Evidence: Policy Integration and Evidence-Based Climate Governance in Multilevel Settings. With Soares FJ, Aquino MA, Miron G.
+ * Paper: The Politics of Climate Evidence: Sensemaking and Data Mobilisation in Brazilian Local Governments. With Aquino MA, Soares FJ, Miron G. (To be presented at 2026 EURA Annual Conference).
     
-  * Paper: Reelections and the Politics of Patronage at Municipal Level: Evidence from Brazilian Local Governments.
+ * Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G. (Presented at 2026 IRSPM Conference).
+   
+ * Paper: Fragmented Structures, Fragmented Evidence: Policy Integration and Evidence-Based Climate Governance in Multilevel Settings. With Soares FJ, Aquino MA, Miron G. (To be presented at 2026 ECPR General Conference).
     
-  * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
-
-  * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
+ * Paper: Reelections and the Politics of Patronage at Municipal Level: Evidence from Brazilian Local Governments.
     
-  * Paper: Modern Difference-in-Differences and Event-Study Designs for Public Administration Research. With Antunes C.
+ * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
 
-  * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
+ * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
+    
+ * Paper: Modern Difference-in-Differences and Event-Study Designs for Public Administration Research. With Antunes C.
 
+ * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
 
 
   **Book chapters**
