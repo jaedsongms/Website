@@ -46,8 +46,6 @@ author_profile: true
     
  * Paper: Bureaucracy, Political Appointments and Patronage: An Brief Overview.
 
- * Paper: Transparency at local Level: Vertical Diffusion and Institutionalization of Municipal Freedom of Informations Laws in Brazilian Federalism. With Barreto RTS.
-    
  * Paper: Modern Difference-in-Differences and Event-Study Designs for Public Administration Research. With Antunes C.
 
  * Paper: Small-n research, observations, and inference approaches: reflections on case study-based research.
