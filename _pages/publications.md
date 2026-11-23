@@ -28,7 +28,7 @@ author_profile: true
 
  **Work in progress**
 
-* Paper: Fragmented Structures, Fragmented Evidence: Policy Integration and Evidence-Based Climate Governance in Multilevel Settings. With Soares FJ, Aquino MA, Miron G. Presented at 2026 ECPR General Conference (Under Review).
+* Paper: Fragmented Structures, Fragmented Evidence: Policy Integration and Evidence-Based Policymaking in Local Climate Governance. With Soares FJ, Aquino MA, Miron G. Presented at 2026 ECPR General Conference (Under Review).
   
 * Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G. Presented at 2026 IRSPM Conference (Under Review).
   
