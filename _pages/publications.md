@@ -30,6 +30,8 @@ author_profile: true
 
 * Paper: Fragmented Structures, Fragmented Evidence: Policy Integration and Evidence-Based Climate Governance in Multilevel Settings. With Soares FJ, Aquino MA, Miron G. Presented at 2026 ECPR General Conference (Under Review).
   
+* Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G. Presented at 2026 IRSPM Conference (Under Review).
+  
 * **Santos JG**, Grin EJ (2023). [Capacidades Estatais: O Perfil Metodológico da Produção Empírica Nacional (2010-2023)](https://preprints.scielo.org/index.php/scielo/preprint/view/7086/13297). Presented at the ANPOCS annual meeting (2023) (Under review).
 
  * **PhD Dissertation paper**: When Politics Delay Collaboration: Political Competition, Timing and Inter-Municipal Cooperation Decisions. First versions presented at [Writing Academy Workshop](https://sites.google.com/view/writing-academy/in%C3%ADcio) (Under review).
@@ -39,8 +41,6 @@ author_profile: true
   * **PhD Dissertation paper**: The Politics of Similarity: How Political Homophily Conditions the Scope of Inter-Municipal Cooperation. (To be presented at 2026 EGPA Conference and 2026 ECPR Euroloc Summer School on Local Government & Politics) 
 
  * Paper: The Politics of Climate Evidence: Sensemaking and Data Mobilisation in Brazilian Local Governments. With Aquino MA, Soares FJ, Miron G. Presented at 2026 EURA Annual Conference.
-    
- * Paper: Institutionalising Adaptive Climate Governance in Local Governments: Between Policy Design and Operational Capacity. With Soares FJ, Aquino MA, Miron G. Presented at 2026 IRSPM Conference (Under Review).
     
  * Paper: Reelections and the Politics of Patronage at Municipal Level: Evidence from Brazilian Local Governments.
     
